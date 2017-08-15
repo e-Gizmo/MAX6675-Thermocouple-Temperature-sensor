@@ -1,0 +1,1 @@
+# MAX6675-Thermocouple-Temperature-sensor
